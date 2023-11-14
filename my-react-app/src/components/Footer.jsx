@@ -7,7 +7,6 @@ const Box = styled.div`
   background-color: #000000;
   color: #00FF00; 
   text-align: center;
-  font-family: 'Orbitron', sans-serif; 
   border-top: 3px solid #00FF00; 
   box-shadow: 0px -5px 10px 0px #00FF00; 
   height:80px;
@@ -28,7 +27,6 @@ const Button = styled.button`
   border: none; 
   padding: 10px 20px; 
   border-radius: 10px; 
-  font-family: 'Orbitron', sans-serif; 
   font-size: 1em; 
   text-transform: uppercase; 
   box-shadow: 0px 0px 10px 3px #00FF00; 

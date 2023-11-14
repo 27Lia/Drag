@@ -10,11 +10,7 @@ const AppContainer = styled.div`
   height: 100vh;
 `;
 
-const MinimizedBar = styled.div`
-  color: white;
-  padding: 10px 0;
-  z-index: 999;
-`;
+
 
 const InternetIcon = styled.div`
   height: 100%;
